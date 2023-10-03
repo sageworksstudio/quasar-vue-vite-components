@@ -1,4 +1,4 @@
-# Quasar US Map (quasar-us-map)
+# Quasar Vue Vite Components (quasar-vue-vite-components)
 
 A Quasar Project
 
