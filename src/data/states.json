@@ -1,0 +1,257 @@
+[
+  {
+    "code": "AK",
+    "name": "Alaska",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "AL",
+    "name": "Alabama",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "AR",
+    "name": "Arkansas",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "AZ",
+    "name": "Arizona",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "CA",
+    "name": "California",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "CO",
+    "name": "Colorado",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "CT",
+    "name": "Connecticut",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "DE",
+    "name": "Deleware",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "FL",
+    "name": "Florida",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "GA",
+    "name": "Georgia",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "HI",
+    "name": "Hawaii",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "IA",
+    "name": "Iowa",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "ID",
+    "name": "Idaho",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "IL",
+    "name": "Illinios",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "IN",
+    "name": "Indiana",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "KY",
+    "name": "Kentucky",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "KS",
+    "name": "Kansas",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "LA",
+    "name": "Louisiana",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "MA",
+    "name": "Massachusetts",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "MD",
+    "name": "Maryland",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "ME",
+    "name": "Maine",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "MI",
+    "name": "Michigan",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "MN",
+    "name": "Minnesota",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "MO",
+    "name": "Missouri",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "MS",
+    "name": "Mississippi",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "MT",
+    "name": "Montanna",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "NC",
+    "name": "North Carolina",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "ND",
+    "name": "North Dakota",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "NE",
+    "name": "Nebraska",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "NH",
+    "name": "New Hampshire",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "NJ",
+    "name": "New Jersey",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "NM",
+    "name": "New Mexico",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "NV",
+    "name": "Nevada",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "NY",
+    "name": "New York",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "OH",
+    "name": "Ohio",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "OK",
+    "name": "Oklahoma",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "OR",
+    "name": "Oregon",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "PA",
+    "name": "Pennsylvania",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "RI",
+    "name": "Rhode Island",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "SC",
+    "name": "South Carolina",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "SD",
+    "name": "South Dakota",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "TN",
+    "name": "Tennessee",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "TX",
+    "name": "Texas",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "UT",
+    "name": "Utah",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "VA",
+    "name": "Virginia",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "VT",
+    "name": "Vermont",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "WA",
+    "name": "Washington",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "WI",
+    "name": "Wisconsin",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "WV",
+    "name": "West Virginia",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "WY",
+    "name": "Wyoming",
+    "data": "Lorem ipsum dolor..."
+  },
+  {
+    "code": "DC",
+    "name": "District of Columbia",
+    "data": "Lorem ipsum dolor..."
+  }
+]
