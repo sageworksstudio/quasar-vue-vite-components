@@ -1,12 +1,12 @@
 <script setup>
-import { ref } from "vue";
-const leftDrawerOpen = ref(false);
-function toggleLeftDrawer() {
-  leftDrawerOpen.value = !leftDrawerOpen.value;
-}
+import { computed } from "vue";
+import DrawerNavigation from "./DrawerNavigation.vue";
+import { useApplication } from "stores/application.js";
+const applicationStore = useApplication();
+const leftDrawerOpen = applicationStore.drawer;
 </script>
 <template>
-  <q-drawer show-if-above v-model="leftDrawerOpen" side="left" bordered>
-    <!-- drawer content -->
+  <q-drawer v-model="applicationStore.drawer" side="left" bordered>
+    <DrawerNavigation />
   </q-drawer>
 </template>

@@ -1,11 +1,14 @@
+<script setup>
+import LayoutCopyright from "../components/LayoutCopyright.vue";
+</script>
 <template>
-  <q-footer elevated class="bg-grey-8 text-white">
+  <q-footer elevated class="bg-secondary">
     <q-toolbar>
       <q-toolbar-title>
-        <q-avatar>
-          <img src="https://cdn.quasar.dev/logo-v2/svg/logo-mono-white.svg" />
-        </q-avatar>
-        <div>Title</div>
+        <div class="text-caption">
+          Copyright © <LayoutCopyright /> Sageworks Studio - All rights
+          reserved.
+        </div>
       </q-toolbar-title>
     </q-toolbar>
   </q-footer>
