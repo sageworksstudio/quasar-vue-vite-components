@@ -28,7 +28,7 @@ randomFact();
       <q-card-section>
         <p>{{ fact }}</p>
         <p>
-          Source: <a :href="source">{{ source }}</a>
+          Source: <a target="_blank" :href="source">{{ source }}</a>
         </p>
         <q-btn
           color="white"
