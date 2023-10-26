@@ -5,6 +5,11 @@ const nav = [
     caption: "Clickable SVG Map with Overlay",
     url: "us-map",
   },
+  {
+    label: "Random Useless Facts",
+    caption: "API calls using Axios",
+    url: "random-useless-facts",
+  },
 ];
 </script>
 <template>
